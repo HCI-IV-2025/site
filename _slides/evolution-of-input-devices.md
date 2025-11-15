@@ -6,10 +6,10 @@ image_url: /images/Surface_Table.jpg
 caption: >
   Από τα πρώτα πειραματικά εργαλεία άμεσης εισόδου μέχρι τα σύγχρονα συστήματα χειρονομιακού ελέγχου: η μετάβαση από το στυλό και την αφή στη φυσική αλληλεπίδραση με το χώρο.
 slides:
-  - Light_Pen
+  - light-pen
   - Graphics_Tablet_Stylus
   - HP_150_touchscreen
-  - NES_Power_Glove
+  - nes-power-glove
   - Surface_Table
   - kinect
 ---
