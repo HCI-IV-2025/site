@@ -9,7 +9,6 @@ events:
   - lisa-mouse
   - trackball
   - rand-tablet
-  - touchpad
   - interactive-whiteboard
   - microsoft-surface-table
 ---
