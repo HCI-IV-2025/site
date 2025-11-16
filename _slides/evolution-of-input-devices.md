@@ -1,13 +1,13 @@
 ---
 layout: slides
-title: Η Εξέλιξη των Συσκευών Εισόδου, Από το Άγγιγμα στη Χειρονομία
-image_url: /images/Surface_Table.jpg
+title: Η Εξέλιξη των Συσκευών Εισόδου - Από το Άγγιγμα στη Χειρονομία
+image_url: /images/microsoft-surface-table.jpg
 caption: Από τα πρώτα πειραματικά εργαλεία άμεσης εισόδου μέχρι τα σύγχρονα συστήματα χειρονομιακού ελέγχου, η μετάβαση από το στυλό και την αφή στη φυσική αλληλεπίδραση με το χώρο.
 slides:
   - light-pen
   - Graphics_Tablet_Stylus
   - HP_150_touchscreen
   - nes-power-glove
-  - Surface_Table
+  - microsoft-surface-table
   - kinect
 ---
