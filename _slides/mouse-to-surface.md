@@ -7,10 +7,10 @@ caption: >
 slides:
   - engelbart-mouse
   - xerox-alto
-  - Lisa_Mouse_1983
+  - lisa-mouse
   - trackball
   - rand-tablet
   - touchpad
   - interactive-whiteboard
-  - Surface_Table
+  - microsoft-surface-table
 ---
