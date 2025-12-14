@@ -5,5 +5,5 @@ caption: Το ταξίδι της σχέσης του ανθρώπου μηχα�
 gallery:
   - steve-mann-wearable-computer
   - vpl-virtual-reality
-  - bci-metadata
+  - brain-computer-interface
 ---
