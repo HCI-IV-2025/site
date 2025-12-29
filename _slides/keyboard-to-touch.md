@@ -6,6 +6,7 @@ caption: Η θεματική <<Από το πληκτρολόγιο στην ο�
 slides:
   - qwerty-typewriter
   - IBM_Model_F_Keyboard
+  - Plato4
   - HP_150_touchscreen
   - apple-newton
   - apple-lisa
