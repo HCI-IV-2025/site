@@ -1,5 +1,5 @@
 ---
-author: xrusa-pan
+author: EleniFot
 title: Xerox-star
 image_url: "https://github.com/EleniFot/images/blob/master/xerox-star.jpg"
 caption: "Το Sketchpad αποτέλεσε το πρώτο πρόγραμμα που αξιοποίησε ένα ολοκληρωμένο γραφικό περιβάλλον χρήστη, θέτοντας τα θεμέλια για τη μετέπειτα ανάπτυξη των γραφικών διεπαφών."
