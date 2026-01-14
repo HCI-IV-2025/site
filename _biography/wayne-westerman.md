@@ -16,3 +16,4 @@ tags:
   - gestures
   - iphone-history
 ---
+{% include bio-westerman.md %}
