@@ -20,9 +20,9 @@ tags:
 
 Το interface επιτρέπει στον χρήστη να ολοκληρώσει μία ενέργεια προσθήκης με ελάχιστα βήματα, μειώνοντας τον γνωστικό φόρτο και αποφεύγοντας περιττές αλλαγές σελίδας.
 
-<iframe height="560" style="width: 100%;" scrolling="no" title="Datatable example" src="https://codepen.io/panamilo/embed/bNpPMPJ?default-tab=html%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true">
-      See the Pen <a href="https://codepen.io/panamilo/pen/bNpPMPJ">
-  Datatable example</a> by Panagiotis Milopoulos (<a href="https://codepen.io/panamilo">@panamilo</a>)
+<iframe height="564" style="width: 100%;" scrolling="no" title="Quick Add Drawer Form" src="https://codepen.io/panamilo/embed/azNgKqq?default-tab=html%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true">
+      See the Pen <a href="https://codepen.io/panamilo/pen/azNgKqq">
+  Quick Add Drawer Form</a> by Panagiotis Milopoulos (<a href="https://codepen.io/panamilo">@panamilo</a>)
   on <a href="https://codepen.io">CodePen</a>.
       </iframe>
 
