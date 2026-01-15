@@ -1,5 +1,5 @@
 <figure id="fig:brain-computer-interface">
-{% include figure image_path="/images/brain-computer-interface.png" caption=""
+{% include figure image_path="/images/brain-computer-interface.jpg" caption=""
 alt="BCI EEG Cap" %}
 <figcaption>
   Μια συσκευή καταγραφής εγκεφαλικών σημάτων (EEG), αποτελεί τον μεταφραστή της σκέψης του ανθρώπου σε γλώσσα που μπορεί η μηχανή να "καταλάβει".
@@ -17,7 +17,7 @@ alt="BCI EEG Cap" %}
 Αν και το BCI μειώνει δραστικά τη φυσική προσπάθεια, συχνά αυξάνει το γνωστικό φορτίο. Ο χρήστης τελικά δεν «σκέφτεται ελεύθερα», αλλά μαθαίνει να σκέφτεται με τρόπους που το σύστημα μπορεί να αναγνωρίσει για να πετύχει το στόχο του. Παρ’ όλα αυτά, πολλές μελέτες δείχνουν ότι η αντίληψη των χρηστών για το BCI παραμένει θετική, ακόμη και όταν η απόδοση είναι χαμηλή για τα δεδομένα της τρέχουσας ανάπτυξης του. [3]
 
 <figure id="fig:sensory-homunculus">
-{% include figure image_path="/images/sensory_homunculus.jpg" caption=""
+{% include figure image_path="/images/sensory_homunculus.png" caption=""
 alt=""Sensory Homunculus" %}
 <figcaption>
   Το sensory homunculus, μια οπτική αναπαράσταση του ανθρώπινου σώματος, όπου το μέγεθος των τμημάτων του σώματος είναι ανάλογο με την έκταση του φλοιού του εγκεφάλου που τα αντιπροσωπεύει.
