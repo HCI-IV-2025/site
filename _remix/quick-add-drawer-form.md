@@ -20,12 +20,11 @@ tags:
 
 Το interface επιτρέπει στον χρήστη να ολοκληρώσει μία ενέργεια προσθήκης με ελάχιστα βήματα, μειώνοντας τον γνωστικό φόρτο και αποφεύγοντας περιττές αλλαγές σελίδας.
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="azNgKqq" data-pen-title="Quick Add Drawer Form" data-user="panamilo" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-      <span>See the Pen <a href="https://codepen.io/panamilo/pen/azNgKqq">
+<iframe height="564" style="width: 100%;" scrolling="no" title="Quick Add Drawer Form" src="https://codepen.io/panamilo/embed/azNgKqq?default-tab=html%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true">
+      See the Pen <a href="https://codepen.io/panamilo/pen/azNgKqq">
   Quick Add Drawer Form</a> by Panagiotis Milopoulos (<a href="https://codepen.io/panamilo">@panamilo</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-      </p>
-      <script async src="https://public.codepenassets.com/embed/index.js"></script>
+  on <a href="https://codepen.io">CodePen</a>.
+      </iframe>
 
 ## Στόχος του παραδείγματος
 
