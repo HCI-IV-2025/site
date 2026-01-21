@@ -13,4 +13,4 @@ tags:
 
 ---
 
-{% include cs-alto.md %}
+{% include cs-palmpilot.md %}
