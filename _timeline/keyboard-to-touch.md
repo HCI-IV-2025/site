@@ -6,9 +6,9 @@ caption: Η θεματική <<Από το πληκτρολόγιο στην ο�
 events:
   - qwerty-typewriter
   - plato4
-  - hp_150_touchscreen
+  - HP_150_touchscreen
   - apple-lisa
-  - ibm_keyboard
+  - IBM_Model_F_Keyboard
   - apple-newton
   - iphone-jobs
 ---
