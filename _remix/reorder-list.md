@@ -15,12 +15,11 @@ tags:
 
 Το παράδειγμα βασίζεται στο εγγενές HTML5 Drag and Drop API και επιτρέπει στον χρήστη να κάνει click & hold ένα στοιχείο της λίστας, να το μετακινήσει και να το αποθέσει σε νέα θέση. Ο κώδικας διαχειρίζεται μια σειρά από γεγονότα (events) όπως dragstart, dragover και drop για να μεταφέρει τα δεδομένα HTML και να ενημερώσει τη δομή του εγγράφου (DOM) σε πραγματικό χρόνο.
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="VYjyYBz" data-pen-title="Drag &amp;amp; Drop, List Items" data-user="pansarz" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-      <span>See the Pen <a href="https://codepen.io/pansarz/pen/VYjyYBz">
+<iframe height="300" style="width: 100%;" scrolling="no" title="Drag &amp; Drop, List Items" src="https://codepen.io/pansarz/embed/VYjyYBz?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true">
+      See the Pen <a href="https://codepen.io/pansarz/pen/VYjyYBz">
   Drag &amp; Drop, List Items</a> by Panos Sarigiannis (<a href="https://codepen.io/pansarz">@pansarz</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-      </p>
-      <script async src="https://public.codepenassets.com/embed/index.js"></script>
+  on <a href="https://codepen.io">CodePen</a>.
+      </iframe>
 
 Η άσκηση αυτή αναδεικνύει βασικές έννοιες της διάδρασης ανθρώπου–υπολογιστή, εστιάζοντας στην οπτική ανατροφοδότηση (visual feedback). Συγκεκριμένα, το σύστημα υποδεικνύει πότε ένα στοιχείο είναι επιλεγμένο (αλλαγή διαφάνειας/opacity) και πού ακριβώς πρόκειται να τοποθετηθεί (εμφάνιση μπλε γραμμής στο dragover), μειώνοντας την αβεβαιότητα του χρήστη κατά τη διάρκεια της κίνησης.
 
