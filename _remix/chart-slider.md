@@ -13,12 +13,11 @@ tags:
 
 Το παρακάτω διαδραστικό παράδειγμα παρουσιάζει τον άμεσο συγχρονισμό μεταξύ ενός στοιχείου ελέγχου εισόδου (range slider) και μιας γραφικής απεικόνισης δεδομένων (pie chart). Αποτελεί έναν χώρο πειραματισμού όπου ο χρήστης μπορεί να μεταβάλλει μια αριθμητική τιμή και να παρατηρήσει ταυτόχρονα την οπτική της αναπαράσταση, κατανοώντας τη σχέση μεταξύ δεδομένων και γραφικών στοιχείων. 
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="vEKpEaW" data-pen-title="Interactive Pie Chart with Range Slider" data-user="pansarz" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-      <span>See the Pen <a href="https://codepen.io/pansarz/pen/vEKpEaW">
+<iframe height="300" style="width: 100%;" scrolling="no" title="Interactive Pie Chart with Range Slider" src="https://codepen.io/pansarz/embed/vEKpEaW?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true">
+      See the Pen <a href="https://codepen.io/pansarz/pen/vEKpEaW">
   Interactive Pie Chart with Range Slider</a> by Panos Sarigiannis (<a href="https://codepen.io/pansarz">@pansarz</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-      </p>
-      <script async src="https://public.codepenassets.com/embed/index.js"></script>
+  on <a href="https://codepen.io">CodePen</a>.
+      </iframe>
 
 Το παράδειγμα βασίζεται στη χρήση CSS μεταβλητών (CSS variables) και JavaScript για την ενημέρωση του γραφήματος σε πραγματικό χρόνο. Η άσκηση αυτή αναδεικνύει βασικές έννοιες της διάδρασης ανθρώπου–υπολογιστή, όπως ο Άμεσος Χειρισμός (Direct Manipulation) και η Άμεση Οπτική Ανατροφοδότηση (Immediate Feedback). Καθώς ο χρήστης σύρει τον δείκτη, το σύστημα ανταποκρίνεται ακαριαία, εξαλείφοντας την ανάγκη για επιπλέον κουμπιά επιβεβαίωσης και ενισχύοντας την αίσθηση του ελέγχου. 
 Το interface αξιοποιεί οπτικές μεταβάσεις (transitions) για να κάνει την αλλαγή των τιμών ομαλή, βελτιώνοντας την εμπειρία χρήστη και καθιστώντας την αλληλεπίδραση πιο φυσική και κατανοητή.
