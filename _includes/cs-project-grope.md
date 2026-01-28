@@ -1,4 +1,4 @@
-**Project GROPE: Η Ενσώματη Εισαγωγή Δεδομένων στον Τρισδιάστατο Χώρο**
+# Project GROPE: Η Ενσώματη Εισαγωγή Δεδομένων στον Τρισδιάστατο Χώρο
 
 <figure id="fig:grope-machine">
 {% include figure image_path="/images/GROPE-machine.png" caption="" alt="Χρήστης χειρίζεται τον βραχίονα Argonne Remote Manipulator (ARM)" %}
@@ -33,7 +33,7 @@
 ### Βιβλιογραφία
 
 <p id="ref1">
-    <a href="#cite1">[1]</a> Brooks, F. P., Ouh-Young, M., Batter, J. J., & Kilpatrick, P. J. (1990). "Project GROPE - Haptic Displays for Scientific Visualization." <em>Computer Graphics</em>, 24(4), 177–185. https://doi.org/10.1145/97880.97902
+    <a href="#cite1">[1]</a> Brooks, F. P., Ouh-Young, M., Batter, J. J., & Kilpatrick, P. J. (1990). "Project GROPE - Haptic Displays for Scientific Visualization." <em>Computer Graphics</em>, 24(4), 177–185.
 </p>
 
 <p id="ref2">
