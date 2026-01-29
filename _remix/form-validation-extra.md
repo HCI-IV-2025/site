@@ -11,8 +11,9 @@ tags:
 
 Το παράδειγμα αυτό βασίζεται σε regular expression για να εντοπίσει σφάλματα στην είσοδου του χρήστη. Πρόσθέσα έλεγχο για email, credit card, ελληνικό τηλεφωνικό νούμερο. 
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="Drag-and-Drop " src="https://codepen.io/fotiniyp/embed/myEOywW?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true">
-  See the Pen <a href='https://codepen.io/FotopoulouE/pen/jErMYXR'>Form Validation</a> by Fotopoulou Eleni
-  (<a href='https://codepen.io/FotopoulouE'>@FotopoulouE</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
+<iframe height="300" style="width: 100%;" scrolling="no" title="Form Validation " src="https://codepen.io/FotopoulouE/embed/jErMYXR?default-tab=result" frameborder="no" loading="lazy" allowtransparency="true">
+      See the Pen <a href="https://codepen.io/FotopoulouE/pen/jErMYXR">
+  Drag-and-Drop </a> by Fotini (<a href="[https://codepen.io/fotiniyp](https://codepen.io/FotopoulouE)">@FotopoulouE</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+      </iframe>
 
