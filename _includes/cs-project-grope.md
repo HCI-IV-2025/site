@@ -1,5 +1,3 @@
-# Project GROPE: Η Ενσώματη Εισαγωγή Δεδομένων στον Τρισδιάστατο Χώρο
-
 <figure id="fig:grope-machine">
 {% include figure image_path="/images/GROPE-machine.png" caption="" alt="Χρήστης χειρίζεται τον βραχίονα Argonne Remote Manipulator (ARM)" %}
 <figcaption>
