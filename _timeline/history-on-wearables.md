@@ -6,8 +6,7 @@ caption: Ένα οπτικό throwback για τις πρώτες συσκευέ
 events:
   - sketchpad-interaction
   - xerox-gypsy
-  - Graphics_Tablet_Stylus
+  - graphics-tablet-stylus
   - vpl-data-glove
-  - Haptic_Gloves_VR
-  - Myo_Armband
+  - haptic-gloves-vr
 ---
