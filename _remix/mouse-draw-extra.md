@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Mouse draw
+title: Mouse draw & undo
 header: no
 categories:
   - method
