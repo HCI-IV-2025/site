@@ -4,7 +4,7 @@ title: Η Ενσωματωμένη Αλληλεπίδραση - Από το Εξ
 image_url: /images/Haptic_Gloves_VR.jpg
 caption: Η τεχνολογία ανεβαίνει από τα δάχτυλα προς το σώμα και γίνεται λιγότερο μηχανική και περισσότερο βιολογική.
 slides:
-  - Trackball_1990
+  - Trackball-1990
   - Graphics_Tablet_Stylus
   - nes-power-glove
   - Haptic_Gloves_VR
