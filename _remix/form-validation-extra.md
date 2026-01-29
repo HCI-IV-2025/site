@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Form validation 
+title: Form validation with email, credit card & greek phone number
 header: no
 categories:
   - synthesis
