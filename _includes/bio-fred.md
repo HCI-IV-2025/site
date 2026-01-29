@@ -1,5 +1,3 @@
-# Frederick Brooks
-
 <figure id="fig:fred-brooks">
 {% include figure image_path="/images/fred_brooks.jpg" caption="" alt="Frederick Brooks Portrait" %}
 <figcaption>
